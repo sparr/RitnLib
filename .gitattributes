@@ -7,3 +7,7 @@ docs export-ignore
 .claude export-ignore
 mkdocs.yml export-ignore
 requirements-docs.txt export-ignore
+test export-ignore
+package.json export-ignore
+package-lock.json export-ignore
+factorio-test.json export-ignore

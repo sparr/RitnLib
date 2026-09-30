@@ -1,0 +1,13 @@
+{
+  "name": "rl-tests",
+  "version": "0.0.1",
+  "title": "RitnLib test consumer",
+  "author": "Sparr",
+  "contact": "sparr0@gmail.com",
+  "factorio_version": "2.1",
+  "description": "Marks a game as running the RitnLib test suite, and stands in for a consumer mod: its data.lua builds prototypes through RitnLib's data-stage builder classes so the runtime fixtures can check what they produced. Never published to the mod portal.",
+  "dependencies": [
+    "base",
+    "RitnLib"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "modPath": ".",
+  "mods": ["rl-tests"],
+  "test": {
+    "game_speed": 100
+  }
+}

@@ -48,3 +48,7 @@ dist/
 *.x86_64
 *.hex
 
+
+# Test tooling
+node_modules/
+package-lock.json
